@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "a7873944df399ff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fcc60d3345380a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "iostream/.cout.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f177bc040d6dca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "77365165906c4c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "116d2d5d64ad6f10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ec6da225bed2ab8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dec",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "17ab1cd2ca54f6cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9697c1f21c6420a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78a64f625555317",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "iostream/.cout.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "iostream/Untitled.md",
+    ".cin.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "cmath/.fmax().md",
+    "cmath/.fmin().md",
+    "cmath/.floor().md",
+    "cmath/Untitled.md",
+    "cmath/.round().md",
+    "cmath/.ceil().md"
+  ]
+}
