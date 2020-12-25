@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Operators/boolean operators.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operators/boolean operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "libraries/cmath.md",
+    "Operators/boolean operators.md",
+    "boolean operators.md",
+    "Types/Untitled.md",
+    "Types/string.md",
+    "Types/map.md",
+    "Types/int.md",
+    "Types/float.md",
     "Types/function.md",
-    "Function/main().md",
-    "Function/Untitled.md",
-    "Array/size of array.md",
-    "Array/get or set element.md",
-    "Untitled.md",
-    "String/endline.md",
-    "String/get or set char.md",
-    "Array/Untitled.md"
+    "Types/char.md",
+    "Types/array.md"
   ]
 }
