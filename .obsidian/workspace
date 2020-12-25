@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operators/boolean operators.md",
+            "file": "Statements/for statement.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operators/boolean operators.md",
+                "file": "Statements/for statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Statements/for statement.md",
+    "Statements/while statement.md",
+    "Statements/switch statement.md",
+    "Statements/if statement.md",
+    "Statements/Untitled.md",
+    "Statements/do ... while statement.md",
+    "Operators/switch statement.md",
+    "Operators/if statement.md",
     "Operators/boolean operators.md",
-    "boolean operators.md",
-    "Types/Untitled.md",
-    "Types/string.md",
-    "Types/map.md",
-    "Types/int.md",
-    "Types/float.md",
-    "Types/function.md",
-    "Types/char.md",
-    "Types/array.md"
+    "Operators/Untitled.md"
   ]
 }

@@ -1,4 +1,5 @@
 || -> or
 && -> and
 ! -> not
-[[bool]] [[operators]]
+Also: > >= <= < != ==
+[[boolean]] [[bool]] [[operators]]
