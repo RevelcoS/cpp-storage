@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Statements/for statement.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/for statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Statements/Untitled.md",
+    "Statements/ternary if.md",
+    "Statements/if statement.md",
     "Statements/for statement.md",
     "Statements/while statement.md",
     "Statements/switch statement.md",
-    "Statements/if statement.md",
-    "Statements/Untitled.md",
     "Statements/do ... while statement.md",
     "Operators/switch statement.md",
     "Operators/if statement.md",
-    "Operators/boolean operators.md",
-    "Operators/Untitled.md"
+    "Operators/boolean operators.md"
   ]
 }
