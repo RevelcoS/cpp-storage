@@ -1,2 +1,2 @@
-int type represents an integer
+int represents an integer
 [[types]] [[integer]] [[math]]

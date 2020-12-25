@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c9fcc60d3345380a",
+        "id": "d3583967453417a9",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "iostream/.cout.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iostream/.cout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "iostream/Untitled.md",
-    ".cin.md",
-    "Untitled 1.md",
+    "libraries/cmath.md",
+    "Types/function.md",
+    "Function/main().md",
+    "Function/Untitled.md",
+    "Array/size of array.md",
+    "Array/get or set element.md",
     "Untitled.md",
-    "cmath/.fmax().md",
-    "cmath/.fmin().md",
-    "cmath/.floor().md",
-    "cmath/Untitled.md",
-    "cmath/.round().md",
-    "cmath/.ceil().md"
+    "String/endline.md",
+    "String/get or set char.md",
+    "Array/Untitled.md"
   ]
 }
